@@ -1,4 +1,4 @@
-species	Host_group	nest_type_simpl	Porcellio_fac	Armadillidium_vulg	Oniscus
+Species	Host_group	Nest_type Porcellio_fac	Armadillidium_vulg	Oniscus
 Formica_polyctena	RWA	thatch_mound	0	0	0
 Formica_polyctena	RWA	thatch_mound	0	0	0
 Formica_polyctena	RWA	thatch_mound	0	0	0
